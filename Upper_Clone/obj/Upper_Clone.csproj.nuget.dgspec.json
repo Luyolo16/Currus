@@ -1,0 +1,139 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Tanya\\source\\repos\\xamarinUbber\\Xamarin_uber_clone\\Upper_Clone\\Upper_Clone.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Tanya\\source\\repos\\xamarinUbber\\Xamarin_uber_clone\\Upper_Clone\\Upper_Clone.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tanya\\source\\repos\\xamarinUbber\\Xamarin_uber_clone\\Upper_Clone\\Upper_Clone.csproj",
+        "projectName": "Upper_Clone",
+        "projectPath": "C:\\Users\\Tanya\\source\\repos\\xamarinUbber\\Xamarin_uber_clone\\Upper_Clone\\Upper_Clone.csproj",
+        "packagesPath": "C:\\Users\\Tanya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tanya\\source\\repos\\xamarinUbber\\Xamarin_uber_clone\\Upper_Clone\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tanya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Biz\\Test\\Site\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "DotLiquid": {
+              "target": "Package",
+              "version": "[2.0.325, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Refractored.Controls.CircleImageView": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            },
+            "Xam.Plugin.Media": {
+              "target": "Package",
+              "version": "[4.0.1.5, )"
+            },
+            "Xamarin.Android.Maps.Utils": {
+              "target": "Package",
+              "version": "[0.5.0, )"
+            },
+            "Xamarin.Android.Support.Compat": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.CustomTabs": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.v4": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.v7.AppCompat": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3, )"
+            },
+            "Xamarin.Firebase.Auth": {
+              "target": "Package",
+              "version": "[71.1605.0, )"
+            },
+            "Xamarin.Firebase.Database": {
+              "target": "Package",
+              "version": "[71.1601.0, )"
+            },
+            "Xamarin.Firebase.Storage": {
+              "target": "Package",
+              "version": "[71.1602.0, )"
+            },
+            "Xamarin.GooglePlayServices.Base": {
+              "target": "Package",
+              "version": "[71.1610.0, )"
+            },
+            "Xamarin.GooglePlayServices.Basement": {
+              "target": "Package",
+              "version": "[71.1620.0, )"
+            },
+            "Xamarin.GooglePlayServices.Location": {
+              "target": "Package",
+              "version": "[71.1600.0, )"
+            },
+            "Xamarin.GooglePlayServices.Maps": {
+              "target": "Package",
+              "version": "[71.1610.0, )"
+            },
+            "Xamarin.GooglePlayServices.Places": {
+              "target": "Package",
+              "version": "[71.1600.0, )"
+            },
+            "Xamarin.GooglePlayServices.Places.PlaceReport": {
+              "target": "Package",
+              "version": "[71.1600.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
